@@ -1,6 +1,7 @@
 [
     {
         "id": 101,
+        "live": "https://computer-accessories01.web.app/",
         "name": "Computer Accessories",
         "picture": "./pictures/Capture-accessories.PNG",
         "technology": "express js, node js, react js, core javascript, firebase,mongo DB, tailwin CSs, react Form, Stripe payment",
@@ -8,6 +9,7 @@
     },
     {
         "id": 102,
+        "live": "https://car-services-1f1d2.web.app/",
         "name": "Car Service",
         "picture": "./pictures/Car-service.PNG",
         "technology": "express js, node js, react js, core javascript, firebase,mongo DB, tailwin CSs, react Form",
@@ -15,6 +17,7 @@
     },
     {
         "id": 103,
+        "live": "https://emajon-lite.netlify.app/",
         "name": "Ema-jon",
         "picture": "./pictures/emajon.png",
         "technology": "express js, node js, react js, core javascript, firebase,mongo DB",
@@ -22,6 +25,7 @@
     },
     {
         "id": 104,
+        "live": "https://phone-store-8dde1.web.app/",
         "name": "Phone WareHouse",
         "picture": "./pictures/phone-warehouse.PNG",
         "technology": " react js, core javascript, firebase,Bootstrap",
@@ -29,6 +33,7 @@
     },
     {
         "id": 105,
+        "live": "https://cocky-knuth-c9a512.netlify.app/",
         "name": "Insta shohor",
         "picture": "./pictures/insta-shohor.PNG",
         "technology": " core javascript,  Bootstrap",
@@ -36,6 +41,7 @@
     },
     {
         "id": 106,
+        "live": "https://doctor-appointment-b5adb.firebaseapp.com/",
         "name": "Service provider",
         "picture": "./pictures/Service_provider.PNG",
         "technology": "express js, node js, react js, core javascript, firebase,mongo DB, tailwin CSs, react Form, Stripe payment",
@@ -43,14 +49,16 @@
     },
     {
         "id": 107,
-        "name": "Computer Accessories",
+        "live": "https://user-reviews1.netlify.app/",
+        "name": "User Review",
         "picture": "./pictures/product-review.PNG",
         "technology": "express js, node js, react js, core javascript, firebase,mongo DB, tailwin CSs, react Form, Stripe payment",
         "description": "This website has functionality to purchase all kinds of computer accessories. A profile of the user will be created, and the user will be able to make his payment through the online card, and he will be able to give his opinion and review."
     },
     {
         "id": 108,
-        "name": "Computer Accessories",
+        "live": "https://cat-app3.netlify.app/",
+        "name": "Buy CAt",
         "picture": "./pictures/buy-cat.PNG",
         "technology": "express js, node js, react js, core javascript, firebase,mongo DB, tailwin CSs, react Form, Stripe payment",
         "description": "This website has functionality to purchase all kinds of computer accessories. A profile of the user will be created, and the user will be able to make his payment through the online card, and he will be able to give his opinion and review."
