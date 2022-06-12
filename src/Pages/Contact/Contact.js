@@ -3,7 +3,7 @@ import { BeakerIcon, LocationMarkerIcon, MailIcon, PhoneIcon, UserAddIcon } from
 
 const Contact = () => {
     return (
-        <div class="hero min-h-screen bg-base-200">
+        <div id='contact' class="hero min-h-screen bg-base-200">
             <div class="hero-content flex-col lg:flex-row-reverse">
                 <div class="text-center lg:text-left w-1/2 ml-6">
                     <h1 class="text-5xl font-bold">Get in Touch</h1>

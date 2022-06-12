@@ -3,7 +3,7 @@ import aboutImg from '../../folder/images/images.png'
 
 const About = () => {
     return (
-        <div className='bg-white'>
+        <div id='about' className='bg-white'>
             <div class="hero min-h-screen bg-base-200">
                 <div class="hero-content flex-col lg:flex-row-reverse">
                     <img className="" src={aboutImg} alt='' />

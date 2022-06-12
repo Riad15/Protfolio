@@ -9,7 +9,7 @@ const Projects = () => {
             .then(data => setProjects(data))
     }, [])
     return (
-        <div>
+        <div id='projects'>
             <h1 className='text-5xl font-bold text-center'>My Latest Projects </h1>
             <div className='grid grid-cols-1 lg:grid-cols-2 align-middle'>
                 {
