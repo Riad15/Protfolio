@@ -18,7 +18,7 @@
     width: 0ch;
     overflow: hidden;
     white-space: nowrap;
-    animation: text 6s steps(16) infinite alternate;
+    animation: text 8s steps(16) infinite alternate;
     border-right: 1px solid black;
 }
 
