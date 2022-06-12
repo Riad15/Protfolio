@@ -11,7 +11,7 @@ const Contact = () => {
                     <div className='flex justify-start'>
                         <UserAddIcon className="h-10 w-10 text-blue-500"></UserAddIcon>
                         <div className='ml-6'>
-                            <h5 className='text-lg font-bold'>Name:</h5>
+                            <h5 className='text-lg font-bold'>Name :</h5>
                             <p className='text-lg'>Asif Riad</p>
                         </div>
                     </div>
@@ -39,12 +39,12 @@ const Contact = () => {
                 </div>
                 <div class="card w-1/2 flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
                     <div class="card-body">
-                        <h1 className='text-5xl text-center font-medium'>Message Me</h1>
+                        <h1 className='text-5xl text-center font-medium mb-3'>Message Me</h1>
                         <div class="form-control">
                             <input type="text" placeholder="Name" class="input input-bordered" />
                         </div>
                         <div class="form-control">
-                            <input type="email" placeholder="email" class="input input-bordered" />
+                            <input type="email" placeholder="Email" class="input input-bordered" />
                         </div>
                         <div class="form-control">
                             <input type="text" placeholder="Subject" class="input input-bordered" />

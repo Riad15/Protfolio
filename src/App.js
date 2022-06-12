@@ -6,6 +6,7 @@ import About from './Pages/Home/About';
 import MySkils from './Pages/Skils/MySkils';
 import Projects from './Pages/Projects/Projects';
 import Contact from './Pages/Contact/Contact';
+import Footer from './Pages/Foter/Footer';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <MySkils></MySkils>
       <Projects></Projects>
       <Contact></Contact>
+      <Footer></Footer>
 
     </div>
   );
