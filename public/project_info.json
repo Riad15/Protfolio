@@ -1,0 +1,58 @@
+[
+    {
+        "id": 101,
+        "name": "Computer Accessories",
+        "picture": "./pictures/Capture-accessories.PNG",
+        "technology": "express js, node js, react js, core javascript, firebase,mongo DB, tailwin CSs, react Form, Stripe payment",
+        "description": "This website has functionality to purchase all kinds of computer accessories. A profile of the user will be created, and the user will be able to make his payment through the online card, and he will be able to give his opinion and review."
+    },
+    {
+        "id": 102,
+        "name": "Car Service",
+        "picture": "./pictures/Car-service.PNG",
+        "technology": "express js, node js, react js, core javascript, firebase,mongo DB, tailwin CSs, react Form",
+        "description": "This website has functionality to purchase all kinds of computer accessories. A profile of the user will be created, and the user will be able to make his payment through the online card, and he will be able to give his opinion and review."
+    },
+    {
+        "id": 103,
+        "name": "Ema-jon",
+        "picture": "./pictures/emajon.png",
+        "technology": "express js, node js, react js, core javascript, firebase,mongo DB",
+        "description": "This website has functionality to purchase all kinds of computer accessories. A profile of the user will be created, and the user will be able to make his payment through the online card, and he will be able to give his opinion and review."
+    },
+    {
+        "id": 104,
+        "name": "Phone WareHouse",
+        "picture": "./pictures/phone-warehouse.PNG",
+        "technology": " react js, core javascript, firebase,Bootstrap",
+        "description": "This website has functionality to purchase all kinds of computer accessories. A profile of the user will be created, and the user will be able to make his payment through the online card, and he will be able to give his opinion and review."
+    },
+    {
+        "id": 105,
+        "name": "Insta shohor",
+        "picture": "./pictures/insta-shohor.PNG",
+        "technology": " core javascript,  Bootstrap",
+        "description": "This website has functionality to purchase all kinds of computer accessories. A profile of the user will be created, and the user will be able to make his payment through the online card, and he will be able to give his opinion and review."
+    },
+    {
+        "id": 106,
+        "name": "Service provider",
+        "picture": "./pictures/Service_provider.PNG",
+        "technology": "express js, node js, react js, core javascript, firebase,mongo DB, tailwin CSs, react Form, Stripe payment",
+        "description": "This website has functionality to purchase all kinds of computer accessories. A profile of the user will be created, and the user will be able to make his payment through the online card, and he will be able to give his opinion and review."
+    },
+    {
+        "id": 107,
+        "name": "Computer Accessories",
+        "picture": "./pictures/product-review.PNG",
+        "technology": "express js, node js, react js, core javascript, firebase,mongo DB, tailwin CSs, react Form, Stripe payment",
+        "description": "This website has functionality to purchase all kinds of computer accessories. A profile of the user will be created, and the user will be able to make his payment through the online card, and he will be able to give his opinion and review."
+    },
+    {
+        "id": 108,
+        "name": "Computer Accessories",
+        "picture": "./pictures/buy-cat.PNG",
+        "technology": "express js, node js, react js, core javascript, firebase,mongo DB, tailwin CSs, react Form, Stripe payment",
+        "description": "This website has functionality to purchase all kinds of computer accessories. A profile of the user will be created, and the user will be able to make his payment through the online card, and he will be able to give his opinion and review."
+    }
+]

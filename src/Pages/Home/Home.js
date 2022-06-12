@@ -25,13 +25,13 @@ const Home = () => {
                     <h4 className='text-2xl typing-text font-medium pr-1' >Web Developer...</h4>
 
 
-                    <div className='flex'>
+                    <div className='flex mt-3'>
                         <img onClick={() => openInNewTab("https://github.com/Riad15")} className='w-8 mr-3 mx-3 hover:scale-125' src={github} alt="" />
                         <img onClick={() => openInNewTab("https://www.facebook.com/profile.php?id=100007574531326")} className='w-8 mr-3 mx-3 hover:scale-125' src={linkedIn} alt="" />
                         <img onClick={() => openInNewTab("https://www.linkedin.com/in/riad-87335317a/")} className='w-8 mr-3 mx-3 hover:scale-125' src={Facebook} alt="" />
                     </div>
 
-                    <button className='btn bg-zinc-700 hover:bg-primary' onClick={() => openInNewTab('https://www.facebook.com/profile.php?id=100007574531326')}>
+                    <button className='btn bg-zinc-700 hover:bg-primary mt-3' onClick={() => openInNewTab('https://www.facebook.com/profile.php?id=100007574531326')}>
                         Hire me
                     </button>
                 </div>
